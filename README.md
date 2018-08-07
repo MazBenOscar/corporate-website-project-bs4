@@ -1,1 +1,1 @@
-# corporate website project bs4
+# A corporate website project made using Bootstrap 4
